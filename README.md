@@ -21,3 +21,21 @@
 <h3 align="center">Get ready to become billionaire !!! 🤑💰💸💵
  </h3>
 
+
+# Smart-Portfolio-Optimization
+<p>
+<a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+## Table of contents 👇🏻:
+1. [Introduction](#Introduction)
+2. [HowToPlay&Download](#HowToPlay&Download)
+3. [Rule](#Rule)
+4.  [Control](#Control)
+5.  [Members](#Members)
+6.   [References](#References)
+
+<br>
+
