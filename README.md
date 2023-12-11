@@ -42,7 +42,7 @@
 
 <br>
 
-## Introduction ☠️: 
+## Introduction 🧐: 
 
 Welcome to the high-octane world of finance, where Smart Portfolio Optimization isn't just a strategy; it's the superhero investors didn't know they needed. Imagine an investment approach fueled by algorithms, driven by data magic, and guided by the genius of artificial intelligence—a dynamic dance in the digital age.
 
