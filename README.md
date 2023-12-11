@@ -15,5 +15,5 @@
     <p>
 </p>
 <div align="center">
-  <img src="./img_readme/pic2.jpg" alt="Banner" width="700" height="450">
+  <img src="./img_readme/pic2" alt="Banner" width="700" height="450">
 </div>
