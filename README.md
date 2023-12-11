@@ -31,11 +31,14 @@
 
 ## Table of contents 👇🏻:
 1. [Introduction](#Introduction)
-2. [HowToPlay&Download](#HowToPlay&Download)
-3. [Rule](#Rule)
-4.  [Control](#Control)
-5.  [Members](#Members)
-6.   [References](#References)
+2. [Data collection](#Data_collection)
+3. [Data preprocessing](#Data_preprocessing)
+4. [Interest rate calculation](#Interest_rate_calculation)
+5. [Portfolio optimization method](#Portfolio_optimization_method)
+6. [Show results after optimization](#Show_results_after_optimization)
+4. [Second optimization and fine-tuning](#Second_optimization_and_fine-tuning).
+7. [Members](#Members)
+8. [References](#References)
 
 <br>
 
