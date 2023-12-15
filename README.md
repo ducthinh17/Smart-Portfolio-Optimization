@@ -2,12 +2,11 @@
   <img src="./img_readme/pic1.jpg" alt="Banner" width="180" height="250">
   <img src="./img_readme/pic2.jpg" alt="Banner" width="180" height="250">
   <img src="./img_readme/pic3.jpg" alt="Banner" width="180" height="250">
-  <img src="./img_readme/pic4.jpg" alt="Banner" width="180" height="250">
 </div>
 
 
 <div align="center">
-  <img src="./img_readme/pic5.jpg" alt="Banner" width="700" height="450">
+  <img src="./img_readme/pic4.jpg" alt="Banner" width="700" height="450">
 </div>
 
 <h3 align="center">Get ready to become billionaire !!! 🤑💰💸💵
