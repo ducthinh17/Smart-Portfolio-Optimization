@@ -44,27 +44,27 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 # Data Collection 🐃:
 
-## *Identification of Essential Metrics :*
+### *Identification of Essential Metrics :*
 - Our journey begins by delineating the essential metrics crucial for Portfolio Optimization. These encompass key variables such as stock prices, trading volumes, and relevant financial indicators derived from the comprehensive Analysis Stock VN30.
 
-## *Selection of Data Sources :*
+### *Selection of Data Sources :*
 - Drawing from Analysis Stock VN30, we ensure our data sources are reputable, providing a comprehensive view of market dynamics. This meticulous selection process sets the stage for informed decision-making.
 
-## *Timeframe Specification :*
+### *Timeframe Specification :*
 - Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
 
 # Data preprocessing 🐻:
 
-##  *Handling Missing Values :*
+###  *Handling Missing Values :*
 - Implement methods to address and fill missing values in the dataset, ensuring completeness and avoiding data gaps that could impact analysis.
 
-## *Outlier Detection and Removal :* 
+### *Outlier Detection and Removal :* 
 - Apply statistical techniques, such as z-score analysis, to identify and remove outliers from the dataset, enhancing the robustness of subsequent analysis.
 
-## *Consistency Check :*
+### *Consistency Check :*
 - Ensure uniformity and consistency in data formatting and structure, streamlining the dataset for optimal analysis.
 
-## *Organizing the Dataset :* 
+### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
 
   
