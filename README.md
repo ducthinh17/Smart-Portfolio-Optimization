@@ -9,6 +9,11 @@
   <img src="./img_readme/pic4.jpg" alt="Banner" width="700" height="450">
 </div>
 
+</p>
+<p align="center">
+	<img src="./img_readme/intro.gif" width="70" /> <b><i>"Get ready to become billionaire !!! 🤑💰💸💵"</i></b> 
+</p>
+
 <h3 align="center">Get ready to become billionaire !!! 🤑💰💸💵
  </h3>
 
