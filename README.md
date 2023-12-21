@@ -11,14 +11,10 @@
 
 </p>
 <p align="center">
-	<img src="./img_readme/intro.gif" width="70" /> <b><i>"Get ready to become billionaire !!! 🤑💰💸💵"</i></b> 
+	<img src="./img_readme/intro.gif" width="100" /> <b><i>"Get ready to become billionaire !!! 🤑💰💸💵"</i></b> <img src="./img_readme/intro.1.gif" width="100" />
 </p>
 
-<h3 align="center">Get ready to become billionaire !!! 🤑💰💸💵
- </h3>
-
-
-# *Smart-Portfolio-Optimization*
+# Smart-Portfolio-Optimization
 <p>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Python-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
