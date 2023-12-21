@@ -13,7 +13,7 @@
  </h3>
 
 
-# Smart-Portfolio-Optimization
+# *Smart-Portfolio-Optimization*
 <p>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Python-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -21,18 +21,14 @@
 
 ## Table of contents 👇🏻:
 1. [Introduction](#Introduction)
-2. [Data collection](#Data_collection)
-3. [Data preprocessing](#Data_preprocessing)
-4. [Interest rate calculation](#Interest_rate_calculation)
-5. [Portfolio optimization method](#Portfolio_optimization_method)
-6. [Show results after optimization](#Show_results_after_optimization)
-4. [Second optimization and fine-tuning](#Second_optimization_and_fine-tuning).
-7. [Members](#Members)
-8. [References](#References)
+2. [Data analysis](#Data_analysis)
+3. [Models](#Models)
+4. [Members](#Members)
+5. [References](#References)
 
 <br>
 
-# Introduction 🧐: 
+# Introduction🔎: 
 ## *Overview 🐻:*
 Welcome to the high-octane world of finance, where Smart Portfolio Optimization isn't just a strategy; it's the superhero investors didn't know they needed. Imagine an investment approach fueled by algorithms, driven by data magic, and guided by the genius of artificial intelligence—a dynamic dance in the digital age.
 
@@ -42,8 +38,9 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ## *The goal of our project🐃:*
 - The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revolutionize how investors navigate the volatile financial landscape. This approach promises real-time adaptability and the ability to predict market moves, presenting a dynamic alternative to traditional risk-and-return models !
 
-# Data Collection 🐃:
+# Data Analysis 📈📉📊:
 
+## Data Collection 🐃:
 ### *Identification of Essential Metrics :*
 - Our journey begins by delineating the essential metrics crucial for Portfolio Optimization. These encompass key variables such as stock prices, trading volumes, and relevant financial indicators derived from the comprehensive Analysis Stock VN30.
 
@@ -53,16 +50,13 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ### *Timeframe Specification :*
 - Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
 
-# Data preprocessing 🐻:
+## Data preprocessing 🐻:
 
 ###  *Handling Missing Values :*
 - Implement methods to address and fill missing values in the dataset, ensuring completeness and avoiding data gaps that could impact analysis.
 
 ### *Outlier Detection and Removal :* 
 - Apply statistical techniques, such as z-score analysis, to identify and remove outliers from the dataset, enhancing the robustness of subsequent analysis.
-
-### *Consistency Check :*
-- Ensure uniformity and consistency in data formatting and structure, streamlining the dataset for optimal analysis.
 
 ### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
