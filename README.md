@@ -11,7 +11,7 @@
 
 </p>
 <p align="center">
-	<img src="./img_readme/intro1.jpg" width="70" /> <b><i>"Get ready to become billionaire !!! 🤑💰💸💵"</i></b> <img src="./img_readme/intro2.jpg" width="70" />
+	<img src="./img_readme/intro2.jpg" width="70" /> <b><i>"Get ready to become billionaire !!! 🤑💰💸💵"</i></b> <img src="./img_readme/intro1.jpg" width="70" />
 </p>
 
 # Smart-Portfolio-Optimization
