@@ -65,8 +65,8 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
   
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
-| Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Position                              |
+| Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
-|   1   |     Pham Le Duc Thinh | ITDSIU20085 |           pldthinh.ityu@gmail.com       |           [ducthinh17](https://github.com/ducthinh17)       |          Leader                                                    |
-|   2   |    Nguyen Thanh Binh  | ITDSIU20056 |          ntbinh.ityu@gmail.com          | [OliverRed1602](https://github.com/OliverRed1602)           |         Member                                                     |
-|   3   |   Ung Thi Hoai Thuong    | ITDSIU20028 |      ungthihoaithuong.tk1@gmail.com               |       [Hthuong92](https://github.com/Hthuong92)     |         Member                                                   
+|   1   |     Pham Le Duc Thinh | ITDSIU20085 |           pldthinh.ityu@gmail.com       |           [ducthinh17](https://github.com/ducthinh17)       |          33.333%                                                    |
+|   2   |    Nguyen Thanh Binh  | ITDSIU20056 |          ntbinh.ityu@gmail.com          | [OliverRed1602](https://github.com/OliverRed1602)           |         33.333%                                                     |
+|   3   |   Ung Thi Hoai Thuong    | ITDSIU20028 |      ungthihoaithuong.tk1@gmail.com               |       [Hthuong92](https://github.com/Hthuong92)     |         33.333%                                                  
