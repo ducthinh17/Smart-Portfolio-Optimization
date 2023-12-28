@@ -1,17 +1,11 @@
 <div align="center">
-  <img src="./img_readme/pic1.jpg" alt="Banner" width="180" height="250">
-  <img src="./img_readme/pic2.jpg" alt="Banner" width="180" height="250">
-  <img src="./img_readme/pic3.jpg" alt="Banner" width="180" height="250">
+  <img src="./img_readme/intro.png" alt="Banner" width="800" height="450">
 </div>
 
-
-<div align="center">
-  <img src="./img_readme/pic4.jpg" alt="Banner" width="700" height="450">
-</div>
 
 </p>
 <p align="center">
-	<img src="./img_readme/bull.gif" width="70" /> <b><i>"Get ready to become billionaires !!! 🤑💸"</i></b> <img src="./img_readme/bear.gif" width="70" />
+	<img src="./img_readme/bull.gif" width="90" /> <b><i>"Get ready to become billionaires !!! 🤑💸"</i></b> <img src="./img_readme/bear.gif" width="70" />
 </p>
 
 # Smart-Portfolio-Optimization
