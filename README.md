@@ -3,6 +3,13 @@
 </div>
 
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=D10F0F&repeat=false&width=400&height=110&lines=OPTIMIZATION" alt="Typing SVG" /></a>
+    <p>
+    <p>
+
+
 </p>
 <p align="center">
 	<img src="./img_readme/bull.gif" width="90" /> <b><i>"Get ready to become billionaires !!! 🤑💸"</i></b> <img src="./img_readme/bear.gif" width="75" />
