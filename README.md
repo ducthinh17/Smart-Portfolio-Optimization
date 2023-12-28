@@ -56,6 +56,8 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
 
+## Visualizing statistical data 🐃:
+
   
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
