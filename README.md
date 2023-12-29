@@ -10,7 +10,7 @@
     <p>
 </p>
 <p align="center">
-	<img src="./img_readme/bull.gif" width="90" /> <b><i>"Get ready to become billionaires !!! 🤑💸"</i></b> <img src="./img_readme/bear.gif" width="75" />
+	<img src="./img_readme/bull.gif" width="95" /> <b><i>"Get ready to become billionaires !!! 🤑💸"</i></b> <img src="./img_readme/bear.gif" width="75" />
 </p>
 
 # Smart-Portfolio-Optimization
