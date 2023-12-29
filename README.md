@@ -83,6 +83,11 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 - In summary, the heatmap provides a visual representation of how closely the stock prices of VIB, PLX, and CRE have moved together in the past. This can be a useful tool for investors to understand relationships between stocks, but it should be part of a broader analysis that includes a variety of other financial and economic indicators
 
 ### *Exploratory data analysis:* 
+<br>
+<p align="center">
+<img src="./img_readme/pair plots.png" width="700"/> 
+</p>
+
 #### Distributions:
 - The histograms on the diagonal show the distribution of the VIB, PLX, and CRE values. These plots allow us to see if the data is normally distributed, skewed, or if there are any outliers. From the histograms, it appears that the distributions have a central peak and taper off towards the sides, suggesting a rough approximation of a normal distribution.
 #### Correlations:
