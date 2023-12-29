@@ -61,9 +61,30 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
 
-## Visualizing statistical data 🐃:
+## Data analysis 🐃:
+### *Visualizing statistical data :*
+<br>
+<p align="center">
+<img src="./img_readme/heatmap.png" width="700"/> 
+</p>
 
-  
+#### Correlation Coefficient: 
+- *VIB and CRE:* There is a high positive correlation of 0.78 between VIB and CRE, indicating that when the price of VIB stock goes up, the price of CRE tends to also go up, and vice versa.
+- *VIB and PLX:* The correlation between VIB and PLX is 0.37, which is a moderate positive correlation. This suggests that there is some relationship between the movements of these two stocks, but it is not as strong as the VIB and CRE correlation.
+- *PLX and CRE:*  PLX and CRE have a correlation of 0.47. This is also a moderate positive correlation, indicating that these stocks also tend to move somewhat in tandem, but the relationship is not particularly strong.
+- *=> Interpretation:* The correlation values suggest that VIB and CRE stocks are more closely related to each other than to PLX. This could be due to a variety of factors such as the sectors they operate in, their market capitalizations, or their sensitivity to similar economic factors.
+#### Investment Strategy: 
+- Investors might use this information to diversify their portfolio or to identify pairs of stocks to consider for pair trading strategies. For instance, if an investor wants to minimize risk through diversification, they might choose to invest in stocks that are not strongly correlated.
+#### Limitations:  
+- It's important to note that correlation does not imply causation. Just because two stocks have a high correlation does not mean that the movement of one is causing the movement of the other. Additionally, the correlation can change over time due to changing market conditions.
+#### Further Analysis:
+- To make investment decisions, one should also consider other factors such as the individual performance of the stocks, the overall market trend, and the specific sectors these stocks belong to. Additionally, looking at the historical volatility and other financial metrics could provide a more comprehensive view of the investment landscape.
+#### Summary: 
+- In summary, the heatmap provides a visual representation of how closely the stock prices of VIB, PLX, and CRE have moved together in the past. This can be a useful tool for investors to understand relationships between stocks, but it should be part of a broader analysis that includes a variety of other financial and economic indicators
+
+
+
+
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
