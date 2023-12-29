@@ -82,9 +82,19 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 #### Summary: 
 - In summary, the heatmap provides a visual representation of how closely the stock prices of VIB, PLX, and CRE have moved together in the past. This can be a useful tool for investors to understand relationships between stocks, but it should be part of a broader analysis that includes a variety of other financial and economic indicators
 
-
-
-
+### *Exploratory data analysis:* 
+#### Distributions:
+- The histograms on the diagonal show the distribution of the VIB, PLX, and CRE values. These plots allow us to see if the data is normally distributed, skewed, or if there are any outliers. From the histograms, it appears that the distributions have a central peak and taper off towards the sides, suggesting a rough approximation of a normal distribution.
+#### Correlations:
+- The scatterplots show how each pair of stocks relates to each other.
+- For instance, the scatterplot for VIB vs. PLX shows each day's closing value for VIB on the x-axis and PLX on the y-axis.
+- If the points form a line going from the bottom left to the top right, it suggests a positive correlation, meaning as one goes up, so does the other. Conversely, a line from the top left to the bottom right would suggest a negative correlation.
+#### Volatility Analysis: 
+- By looking at the spread of the scatterplots, we can get a sense of the volatility of the stocks. A wider spread means more volatility, while a narrower spread means less.
+- From the scatterplots, we can compare the volatility and behavior of the stocks with each other.For example, if the scatterplot for VIB vs. PLX is more spread out than VIB vs. CRE, it could mean that VIB and PLX share a more volatile relationship.
+- Outliers: Scatterplots can also help identify outliers – points that fall far away from the others. These might represent days with unusual market activity.
+#### Interpretation:
+- The exact relationship between the stocks would require a closer examination of the scatterplots. However, if the scatterplots show a clear pattern or trend, it could be indicative of a strong relationship between the stock pairings.
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
