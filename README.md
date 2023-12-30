@@ -21,9 +21,9 @@
 
 ## Table of contents 👇🏻:
 1. [Introduction](#Introduction)
-2. [Data Visualization](#Data_Visualization)
-3. [Data Analysis](#Data_Analysis)
-4. [Stochastic Gradient Descent](#Stochastic_Gradient_Descent)
+2. [Data Visualization](#Data-Visualization)
+3. [Data Analysis](#Data-Analysis)
+4. [Stochastic Gradient Descent](#Stochastic-Gradient-Descent)
 5. [Members](#Members)
 6. [References](#References)
 
