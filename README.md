@@ -164,6 +164,35 @@ in there:
 
 In the portfolio optimization problem, the goal is usually to maximize the expected return \( f(\mathbf{w}) \).
 
+
+
+
+### Calculate Your Portfolio's Expected Return (`expected_return`)
+
+Expected return is calculated by multiplying each stock's weights (`optimal_weights`) by the average daily return (`returns.mean(axis=0)`) and summing.
+
+**Recipe:**
+`expected_return = optimal_weights * mean(returns)`
+
+### Calculating Portfolio Risk (`portfolio_risk`)
+
+The risk of the portfolio is calculated using the covariance matrix (`covariance_matrix`) and the weights of the stocks.
+
+**Recipe:**
+`portfolio_risk = sqrt(optimal_weights^T * (covariance_matrix * optimal_weights))`
+
+### Sharpe Ratio Rating (`sharpe_ratio`)
+
+Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (`risk_free_rate`), normalized for risk.
+
+**Recipe:**
+`sharpe_ratio = (expected_return - risk_free_rate) / portfolio_risk`
+
+### Annualization
+
+- Expected return and Sharpe Ratio are annualized (converted to an annual value) by multiplying by 252, the average number of trading days in a year.
+- Risk is annualized by multiplying by the square root of 252.
+
 ## ***Cumulative return of the portfolio relative to the market***
 <br>
 <p align="center">
