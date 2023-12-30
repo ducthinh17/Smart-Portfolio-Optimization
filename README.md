@@ -21,10 +21,11 @@
 
 ## Table of contents 👇🏻:
 1. [Introduction](#Introduction)
-2. [Data analysis](#Data_analysis)
-3. [Models](#Models)
-4. [Members](#Members)
-5. [References](#References)
+2. [Data Visualization](#Data_Visualization)
+3. [Data Analysis](#Data_Analysis)
+4. [Stochastic Gradient Descent](#Stochastic_Gradient_Descent)
+5. [Members](#Members)
+6. [References](#References)
 
 <br>
 
@@ -37,6 +38,26 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 ## *The goal of our project🐃:*
 - The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revolutionize how investors navigate the volatile financial landscape. This approach promises real-time adaptability and the ability to predict market moves, presenting a dynamic alternative to traditional risk-and-return models !
+
+# Data Visualization 🎭:
+
+## Fluctuations in 4 years
+<br>
+<p align="center">
+<img src="./img_readme/4 stocks.png" width="700"/> 
+</p>
+
+## Moving Average chart (SMA)
+<br>
+<p align="center">
+<img src="./img_readme/candle&SMA.png" width="700"/> 
+</p>
+
+## Composite Enhancement Chart
+<br>
+<p align="center">
+<img src="./img_readme/MIX_Chart.png" width="700"/> 
+</p>
 
 # Data Analysis 📈📉📊:
 
@@ -100,6 +121,27 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 - Outliers: Scatterplots can also help identify outliers – points that fall far away from the others. These might represent days with unusual market activity.
 #### Interpretation:
 - The exact relationship between the stocks would require a closer examination of the scatterplots. However, if the scatterplots show a clear pattern or trend, it could be indicative of a strong relationship between the stock pairings.
+
+# Stochastic Gradient Descent 🥇
+
+*SGD stands for "Stochastic Gradient Descent," an optimization algorithm commonly used in machine learning and machine learning to find the optimal value of a loss function. SGD is an important part of many machine learning and neural network algorithms, especially when you train deep models.*
+
+## ***Portfolio Optimization Using Expected Gradient Descent***
+<br>
+<p align="center">
+<img src="./img_readme/SGD_Perfomance.png" width="700"/> 
+</p>
+
+## ***Cumulative return of the portfolio relative to the market***
+<br>
+<p align="center">
+<img src="./img_readme/Vnindex&Portfolio.png" width="700"/> 
+</p>
+
+## Apply new Weights to check Historical Performance
+<br>
+
+
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
