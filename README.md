@@ -44,19 +44,19 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ## Fluctuations in 4 years
 <br>
 <p align="center">
-<img src="./img_readme/4 stocks.png" width="700"/> 
+<img src="./img_readme/4 stocks.png" width="700" height="400"/> 
 </p>
 
 ## Moving Average chart (SMA)
 <br>
 <p align="center">
-<img src="./img_readme/candle&SMA.png" width="700"/> 
+<img src="./img_readme/candle&SMA.png" width="700" height="400"/> 
 </p>
 
 ## Composite Enhancement Chart
 <br>
 <p align="center">
-<img src="./img_readme/MIX_Chart.png" width="700"/> 
+<img src="./img_readme/MIX_Chart.png" width="700" height="400"/> 
 </p>
 
 # Data Analysis 📈📉📊:
@@ -129,18 +129,20 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ## ***Portfolio Optimization Using Expected Gradient Descent***
 <br>
 <p align="center">
-<img src="./img_readme/SGD_Perfomance.png" width="700"/> 
+<img src="./img_readme/SGD_Perfomance.png" width="700" height="400"/> 
 </p>
 
 ## ***Cumulative return of the portfolio relative to the market***
 <br>
 <p align="center">
-<img src="./img_readme/Vnindex&Portfolio.png" width="700"/> 
+<img src="./img_readme/Vnindex&Portfolio.png" width="700" height="400"/> 
 </p>
 
 ## Apply new Weights to check Historical Performance
 <br>
-
+<p align="center">
+<img src="./img_readme/check hist.png" width="700" height="400"/> 
+</p>
 
 # Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
 
