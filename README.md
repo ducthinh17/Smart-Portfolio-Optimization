@@ -132,6 +132,38 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 <img src="./img_readme/SGD_Perfomance.png" width="700" height="400"/> 
 </p>
 
+### Objective Function
+
+**Maximize:** \( f(\mathbf{w}) \)
+
+in there:
+- \( f(\mathbf{w}) \) is the objective function, usually the expected return of the portfolio, depending on the weight vector \( \mathbf{w} \).
+
+### Constraint
+
+1. **Summation Constraint:** \( \sum_{i=1}^{n} w_i = 1 \)
+
+    This ensures that the total weight of all assets in the portfolio is 1 (i.e. 100%).
+
+2. **Non-Negative Constraint:** \( w_i \geq 0 \) for all \( i \)
+
+    This ensures that there are no negative weights, i.e. no short positions.
+
+3. **Optional: Other Constraints**
+
+    Other constraints may include upper and lower limits on the weighting of each asset, or constraints on the maximum acceptable level of risk.
+
+### Lagrangian function
+
+In case of using Lagrange method to solve:
+
+**L(\mathbf{w}, \lambda) =** \( f(\mathbf{w}) - \lambda \left( \sum_{i=1}^{n} w_i - 1 \right) \ )
+
+in there:
+- \( \lambda \) is a Lagrange multiplier, related to the weighted sum constraint.
+
+In the portfolio optimization problem, the goal is usually to maximize the expected return \( f(\mathbf{w}) \).
+
 ## ***Cumulative return of the portfolio relative to the market***
 <br>
 <p align="center">
