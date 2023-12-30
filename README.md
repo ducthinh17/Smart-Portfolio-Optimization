@@ -205,13 +205,13 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 <img src="./img_readme/check hist.png" width="700" height="400"/> 
 </p>
 
-# Members 👨🏻‍💻👨🏻‍💻👩🏻‍💻:
+# Members 👨🏻‍💻👩🏻‍💻👨🏻‍💻:
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
 |   1   |     Pham Le Duc Thinh | ITDSIU20085 |           pldthinh.ityu@gmail.com       |           [ducthinh17](https://github.com/ducthinh17)       |          33.333%                                                    |
-|   2   |    Nguyen Thanh Binh  | ITDSIU20056 |          ntbinh.ityu@gmail.com          | [OliverRed1602](https://github.com/OliverRed1602)           |         33.333%                                                     |
-|   3   |   Ung Thi Hoai Thuong    | ITDSIU20028 |      ungthihoaithuong.tk1@gmail.com               |       [Hthuong92](https://github.com/Hthuong92)     |         33.333%                                                  
+|   2   |     Ung Thi Hoai Thuong  | ITDSIU20028 |          ungthihoaithuong.tk1@gmail.com          |      [Hthuong92](https://github.com/Hthuong92)      |         33.333%                                                     |
+|   3   |  Nguyen Thanh Binh     | ITDSIU20056 |      ntbinh.ityu@gmail.com               |   [OliverRed1602](https://github.com/OliverRed1602)         |         33.333%                                                  
 
 
 <p align="center">
