@@ -154,7 +154,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 **Maximize:** $f$ (**W**)
 
 in there:
-- \( f(\mathbf{w}) \) is the objective function, usually the expected return of the portfolio, depending on the weight vector \( \mathbf{w} \).
+- $f$ (**W**) is the objective function, usually the expected return of the portfolio, depending on the weight vector $**W**$ .
 
 ### Constraint
 
