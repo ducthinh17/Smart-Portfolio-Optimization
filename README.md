@@ -151,10 +151,10 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 ### Objective Function
 
-**Maximize:** $f$ (**W**)
+**Maximize:** **$f$** **($W$)**
 
 in there:
-- $f$ (**W**) is the objective function, usually the expected return of the portfolio, depending on the weight vector **$W$** .
+- **$f$** **($W$)** is the objective function, usually the expected return of the portfolio, depending on the weight vector **$W$** .
 
 ### Constraint
 
@@ -162,7 +162,7 @@ in there:
 
     This ensures that the total weight of all assets in the portfolio is 1 (i.e. 100%).
 
-2. **Non-Negative Constraint:** \( w_i \geq 0 \) for all \( i \)
+2. **Non-Negative Constraint:** **$W$**_*i* for all *i*
 
     This ensures that there are no negative weights, i.e. no short positions.
 
