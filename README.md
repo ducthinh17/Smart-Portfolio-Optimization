@@ -204,6 +204,29 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 
 *During the period from '2023-01-01' to '2023-12-12,' both the optimal portfolio and VNINDEX exhibit a trend of co-varying fluctuations. The portfolio demonstrates a minor impact from VNINDEX, contributing to its overall growth. It is noticeable that towards the end of the year, the optimal portfolio experiences an increasing trend in weight allocation, leading to higher returns. This observation suggests a potential correlation between the portfolio's performance and the VNINDEX, with the portfolio showing a responsive growth pattern influenced by the market index.*
 
+<br>
+<p align="center">
+<img src="./img_readme/Monte Carlo.png" width="700"/> 
+</p>
+## Principal Component Analysis (PCA)
+<br>
+<p align="center">
+<img src="./img_readme/PCA.png" width="700"/> 
+</p>
+- The first principal component explains about 30% of the total variation.
+
+- As principal components are added, the proportion of cumulative variance increases, indicating that each additional principal component helps explain a portion of the remaining total variation.
+
+- By the time the fourth component is reached, almost 100% of the total variation has been explained, which means that the four main components have explained most of the variation in your data.
+
+### ***The implications of this in the context of portfolio management could be:***
+
+- **Diversification:** If just one or two major components explain the majority of the variation, it may indicate that the portfolio is not diversified well enough, as a small number of stocks have a large influence on the variation. category bias.
+
+- **Concentration Risk:** If a small number of components explain the majority of variation, there may be concentration risk in a few stocks or industries.
+
+- **Consider Adjusting Your Portfolio:*** You can consider adjusting the weights of stocks in your portfolio based on information from PCA to minimize risk and optimize returns.
+
 ## Apply new Weights to check Historical Performance
 <br>
 <p align="center">
