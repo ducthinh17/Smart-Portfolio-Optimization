@@ -208,11 +208,14 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 <p align="center">
 <img src="./img_readme/Monte Carlo.png" width="700"/> 
 </p>
+
 ## Principal Component Analysis (PCA)
+
 <br>
 <p align="center">
 <img src="./img_readme/PCA.png" width="700"/> 
 </p>
+
 - The first principal component explains about 30% of the total variation.
 
 - As principal components are added, the proportion of cumulative variance increases, indicating that each additional principal component helps explain a portion of the remaining total variation.
