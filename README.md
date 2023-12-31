@@ -159,7 +159,9 @@ in there:
 ### Constraint
 
 1. **Summation Constraint:
+<p align="center">
    <img src="./img_readme/Summation Constraint.png" width="700" height="200"/> 
+</p>
     This ensures that the total weight of all assets in the portfolio is 1 (i.e. 100%).
 
 3. **Non-Negative Constraint:** **$W$**_*i* for all *i*
@@ -173,9 +175,9 @@ in there:
 ### Lagrangian function
 
 In case of using Lagrange method to solve:
-
+<p>
 <img src="./img_readme/Lagrangian.png" width="200" height="400"/> 
-
+</p>
 in there:
 - \( \lambda \) is a Lagrange multiplier, related to the weighted sum constraint.
 
