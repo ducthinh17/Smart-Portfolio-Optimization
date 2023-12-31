@@ -134,7 +134,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 <br>
 <p align="center">
-<img src="./img_readme/update weight.png" width="350"/> 
+<img src="./img_readme/update weight.png" width="250"/> 
 </p>
 
 ### Objective Function
