@@ -222,7 +222,7 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 
 - By the time the fourth component is reached, almost 100% of the total variation has been explained, which means that the four main components have explained most of the variation in your data.
 
-### ***The implications of this in the context of portfolio management could be:***
+#### ***The implications of this in the context of portfolio management could be:***
 
 - **Diversification:** If just one or two major components explain the majority of the variation, it may indicate that the portfolio is not diversified well enough, as a small number of stocks have a large influence on the variation. category bias.
 
