@@ -140,9 +140,28 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 - Based on the pair plot alone, it is not possible to conclusively determine which stock is the best investment without additional context such as the time frame of the data, the specific financial metrics being analyzed, and the investment goals of the individual. However, investors might look for stocks with stable distributions (less skewness) and positive correlations with other stocks if they are seeking diversified portfolios that can potentially reduce risk.
 
+### *Comparative Analysis of Closing Prices for VIB, PLX, and CRE Stocks 📊:* 
+<br>
+<p align="center">
+<img src="./img_readme/close prices.jpg" width="700"/> 
+</p>
 
 
+#### Introduction:
+- This report presents a visual analysis of the closing prices of three distinct stocks: VIB, PLX, and CRE. The data is processed and visualized using Python with the Pandas and Cufflinks libraries, which are instrumental in handling and plotting financial time series data.
 
+#### Data Processing:
+- The dataset was manipulated to convert the 'time' column into a datetime format, ensuring the proper chronological order of the time series. This was achieved by utilizing Pandas' to_datetime method and subsequently setting this column as the DataFrame's index. This preparatory step is essential for accurate time series analysis. It was also necessary to extract the closing prices from a multi-level columnar structure, which were then assigned to individual stock identifiers.
+
+#### Visualization:
+- The resulting chart, titled Closing Prices of Three Types, displays the historical closing prices of the stocks VIB, PLX, and CRE. The horizontal axis represents time, labeled as Year, and the vertical axis denotes the closing price, labeled as Price. Each stock is represented by a distinct color for easy distinction and comparative analysis.
+
+#### Observations:
+- *VIB Stock*: Exhibits higher closing prices relative to PLX and CRE, with significant volatility noted. A general downtrend is observable commencing around mid-2021.
+- *PLX Stock*: Demonstrates a gradual and more consistent increase in closing price over the observed period.
+- *CRE Stock*: Shows varied fluctuations with a modest overall uptrend in its closing price.
+#### Conclusion:
+- The chart effectively encapsulates the performance trends of the three stocks over the observed period. VIB's performance shows higher volatility and a notable decrease in value, suggesting a period of instability or market corrections. In contrast, PLX's steady growth could be indicative of consistent performance and potentially stable market conditions. CRE's fluctuating nature, while showing an upward trend, may signal a more complex market behavior that warrants further analysis to understand underlying factors.
 
 # Stochastic Gradient Descent 🥇
 
