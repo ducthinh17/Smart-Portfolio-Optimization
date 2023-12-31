@@ -158,15 +158,15 @@ in there:
 
 ### Constraint
 
-1. **Summation Constraint:** \( \sum_{i=1}^{n} w_i = 1 \)
-
+1. **Summation Constraint:
+   <img src="./img_readme/Summation Constraint.png" width="700" height="200"/> 
     This ensures that the total weight of all assets in the portfolio is 1 (i.e. 100%).
 
-2. **Non-Negative Constraint:** **$W$**_*i* for all *i*
+3. **Non-Negative Constraint:** **$W$**_*i* for all *i*
 
     This ensures that there are no negative weights, i.e. no short positions.
 
-3. **Optional: Other Constraints**
+4. **Optional: Other Constraints**
 
     Other constraints may include upper and lower limits on the weighting of each asset, or constraints on the maximum acceptable level of risk.
 
@@ -174,7 +174,7 @@ in there:
 
 In case of using Lagrange method to solve:
 
-**L(\mathbf{w}, \lambda) =** \( f(\mathbf{w}) - \lambda \left( \sum_{i=1}^{n} w_i - 1 \right) \ )
+<img src="./img_readme/Lagrangian.png" width="200" height="400"/> 
 
 in there:
 - \( \lambda \) is a Lagrange multiplier, related to the weighted sum constraint.
