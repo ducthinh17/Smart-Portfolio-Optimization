@@ -173,9 +173,9 @@ in there:
     Other constraints may include upper and lower limits on the weighting of each asset, or constraints on the maximum acceptable level of risk.
 
 ### Lagrangian function
-
-In case of using Lagrange method to solve:
 <p>
+In case of using Lagrange method to solve:
+
 <img src="./img_readme/Lagrangian Function.png" width="250"/> 
 </p>
 in there:
