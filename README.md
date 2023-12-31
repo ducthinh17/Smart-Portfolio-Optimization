@@ -82,45 +82,67 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
 
-## Data analysis 🐃:
-### *Visualizing statistical data :*
+## Data analysis 🔎:
+### *Heatmap for Stock Analysis 📉:* 
 <br>
 <p align="center">
 <img src="./img_readme/heatmap.png" width="700"/> 
-</p>
+</p> 
 
-#### Correlation Coefficient: 
-- *VIB and CRE:* There is a high positive correlation of 0.78 between VIB and CRE, indicating that when the price of VIB stock goes up, the price of CRE tends to also go up, and vice versa.
-- *VIB and PLX:* The correlation between VIB and PLX is 0.37, which is a moderate positive correlation. This suggests that there is some relationship between the movements of these two stocks, but it is not as strong as the VIB and CRE correlation.
-- *PLX and CRE:*  PLX and CRE have a correlation of 0.47. This is also a moderate positive correlation, indicating that these stocks also tend to move somewhat in tandem, but the relationship is not particularly strong.
-- *=> Interpretation:* The correlation values suggest that VIB and CRE stocks are more closely related to each other than to PLX. This could be due to a variety of factors such as the sectors they operate in, their market capitalizations, or their sensitivity to similar economic factors.
-#### Investment Strategy: 
-- Investors might use this information to diversify their portfolio or to identify pairs of stocks to consider for pair trading strategies. For instance, if an investor wants to minimize risk through diversification, they might choose to invest in stocks that are not strongly correlated.
-#### Limitations:  
-- It's important to note that correlation does not imply causation. Just because two stocks have a high correlation does not mean that the movement of one is causing the movement of the other. Additionally, the correlation can change over time due to changing market conditions.
-#### Further Analysis:
-- To make investment decisions, one should also consider other factors such as the individual performance of the stocks, the overall market trend, and the specific sectors these stocks belong to. Additionally, looking at the historical volatility and other financial metrics could provide a more comprehensive view of the investment landscape.
-#### Summary: 
-- In summary, the heatmap provides a visual representation of how closely the stock prices of VIB, PLX, and CRE have moved together in the past. This can be a useful tool for investors to understand relationships between stocks, but it should be part of a broader analysis that includes a variety of other financial and economic indicators
+#### Using Heatmap for Stock Analysis:
+- Heatmaps are a valuable tool in stock analysis, providing a visual representation of data to quickly identify patterns and correlations between different stocks. The heatmap in the provided image uses a color-coded system to indicate the strength of the relationship between various stock shares, with darker colors typically representing stronger relationships or higher values.
+#### Analysis of Stock Shares:
+- The heatmap shows four different stocks, labeled VIB, PLX, CRE, and SSI. Each stock is compared with itself and the others, resulting in a matrix where the diagonal represents a perfect correlation of 1, as a stock will always have a perfect correlation with itself. Here's a detail analysis based on the heatmap:
+  
+- *VIB and CRE*: With a correlation of 0.78, these two stocks have a strong positive correlation, suggesting that their prices tend to move in the same direction. Investors holding one of these stocks might consider the other as a similar risk profile investment.
 
-### *Exploratory data analysis:* 
+- *VIB and SSI*: This pair shows the strongest positive correlation of 0.86, indicating a very strong tendency to move together. This could imply that they are influenced by similar factors or are in related sectors.
+
+- *PLX and CRE*: They have a moderate positive correlation of 0.47, which is less strong than VIB and CRE, but still significant enough to suggest some level of similar price movement.
+
+- *PLX and SSI*: The correlation is 0.38, which is relatively weak. This suggests that PLX and SSI stock prices do not move in tandem as closely as some of the other pairs.
+
+- *CRE and SSI*: They have a high positive correlation of 0.8, indicating a strong likelihood that they move in the same direction.
+
+#### Comparison of Stock Shares
+- The off-diagonal elements of the heatmap show the correlation between different stocks. For instance, VIB and CRE have a correlation of 0.78, indicating a strong positive relationship. Similarly, SSI shows a strong positive correlation with VIB at 0.86. On the other hand, PLX shows relatively weaker correlations with the other stocks, such as a 0.37 with VIB and a 0.38 with SSI.
+  
+#### Correlation Analysis
+- The correlations range from 0.37 to 0.86, suggesting varying degrees of relationships between the stock pairs. Strong correlations (closer to 1) suggest that the stocks move in the same direction, while weaker correlations (closer to 0) indicate less of a relationship. It's important to note that correlation does not imply causation, and these values simply reflect the historical movement of the stocks relative to each other.
+
+#### Conclusion on Investment
+
+- From an investment perspective, if an investor is looking to diversify their portfolio to minimize risk, they might look for stocks that have low or negative correlations with each other. In this case, PLX might be a candidate for diversification as it has the lowest correlations with the other stocks.
+
+- However, if an investor is looking to reinforce their position in a particular market trend, they might choose stocks with high correlations, like VIB and SSI or CRE and SSI, to potentially maximize gains from movements in that trend.
+
+- It's important to note that correlation does not imply causation, and these figures should be one of many factors considered when making investment decisions. Other fundamental and technical analysis should also be conducted to understand the full picture of each stock's potential.
+
+
+### *Pair Plot for Stock Analysis 📊:* 
 <br>
 <p align="center">
 <img src="./img_readme/pair plots.png" width="700"/> 
 </p>
 
-#### Distributions:
-- The histograms on the diagonal show the distribution of the VIB, PLX, and CRE values. These plots allow us to see if the data is normally distributed, skewed, or if there are any outliers. From the histograms, it appears that the distributions have a central peak and taper off towards the sides, suggesting a rough approximation of a normal distribution.
-#### Correlations:
-- The scatterplots show how each pair of stocks relates to each other.
-- For instance, the scatterplot for VIB vs. PLX shows each day's closing value for VIB on the x-axis and PLX on the y-axis.
-- If the points form a line going from the bottom left to the top right, it suggests a positive correlation, meaning as one goes up, so does the other. Conversely, a line from the top left to the bottom right would suggest a negative correlation.
-#### Volatility Analysis: 
-- By looking at the spread of the scatterplots, we can get a sense of the volatility of the stocks. A wider spread means more volatility, while a narrower spread means less.
-- From the scatterplots, we can compare the volatility and behavior of the stocks with each other.For example, if the scatterplot for VIB vs. PLX is more spread out than VIB vs. CRE, it could mean that VIB and PLX share a more volatile relationship.
-- Outliers: Scatterplots can also help identify outliers – points that fall far away from the others. These might represent days with unusual market activity.
-#### Interpretation:
-- The exact relationship between the stocks would require a closer examination of the scatterplots. However, if the scatterplots show a clear pattern or trend, it could be indicative of a strong relationship between the stock pairings.
+####  Using Pair Plot for Stock Analysis:
+- Pair plots are useful in stock market analysis because they allow investors to quickly identify relationships between different stocks and to spot trends or anomalies in the data. They can also help in assessing the risk and return profile of a portfolio by visualizing how different stocks interact with each other. 
+#### Analysis of Stock Shares:
+- The pair plot shows four different types of stock shares, which are represented by the variables VBJ, PLX, CRE, and SSI. The diagonal histograms represent the distribution of each stock's values, while the off-diagonal scatterplots show the relationship between pairs of stocks.
+#### Comparison of Stock Shares:
+- *VBJ Stock*: The histogram for VBJ shows a distribution that is approximately normal, suggesting that the stock's performance metrics are centered around a mean value with symmetrical variability on both sides.
+- *PLX Stock*: PLX's histogram also appears to be normally distributed, with a peak slightly skewed towards the left, indicating a mean value with a slight bias towards lower values.
+- *CRE Stock*: The distribution of CRE is similar to PLX, with a slight left skewness, suggesting a concentration of lower values.
+- *SSI Stock*: SSI's histogram shows a distribution that is less symmetrical than the others, with a potential right skewness, indicating a possibility of higher outlier values.
+#### Correlation Analysis:
+- The scatterplots indicate how each pair of stocks might move in relation to each other. For instance, if the points in a scatterplot between VBJ and PLX form a clear line with a positive slope, it would suggest a positive correlation, meaning that as VBJ stock values increase, PLX stock values also tend to increase.
+#### Conclusion on Investment:
+
+- Based on the pair plot alone, it is not possible to conclusively determine which stock is the best investment without additional context such as the time frame of the data, the specific financial metrics being analyzed, and the investment goals of the individual. However, investors might look for stocks with stable distributions (less skewness) and positive correlations with other stocks if they are seeking diversified portfolios that can potentially reduce risk.
+
+
+
+
 
 # Stochastic Gradient Descent 🥇
 
