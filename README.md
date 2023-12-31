@@ -65,9 +65,9 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 ### *Identification of Essential Metrics :*
 - Our journey begins by delineating the essential metrics crucial for Portfolio Optimization. These encompass key variables such as stock prices, trading volumes, and relevant financial indicators derived from the comprehensive Analysis Stock VN30.
 
-### *Selection of Data Sources :*
-- Drawing from Analysis Stock VN30, we ensure our data sources are reputable, providing a comprehensive view of market dynamics. This meticulous selection process sets the stage for informed decision-making.
-
+### *Extracting Data from VN30 :*
+- We retrieve data directly from the VN30 platform.This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
+  
 ### *Timeframe Specification :*
 - Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
 
