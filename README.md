@@ -37,36 +37,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 
 ## *The goal of our project🐃:*
-- The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revolutionize how investors navigate the volatile financial landscape. This approach promises real-time adaptability and the ability to predict market moves, presenting a dynamic alternative to traditional risk-and-return models !
-
-# Data Visualization 🎭:
-
-## Fluctuations in 4 years
-<br>
-<p align="center">
-<img src="./img_readme/4 stocks.png" width="800" height="400"/> 
-</p>
-
-## Moving Average chart (SMA)
-<br>
-<p align="center">
-<img src="./img_readme/candle&SMA.png" width="800" height="400"/> 
-</p>
-
-## Composite Enhancement Chart
-<br>
-<p align="center">
-<img src="./img_readme/MIX_Chart.png" width="800" height="400"/> 
-</p>
-
-# Data Analysis 📈📉📊:
-
-## Data Collection 🐃:
-### *Identification of Essential Metrics :*
-- Our journey begins by delineating the essential metrics crucial for Portfolio Optimization. These encompass key variables such as stock prices, trading volumes, and relevant financial indicators derived from the comprehensive Analysis Stock VN30.
-
-### *Extracting Data from VN30 :*
-- We retrieve data directly from the VN30 platform.This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
+- The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revoWe retrieve data directly from the VN30 platform. If the platform presents average data, we extract and utilize it as supporting evidence. This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
   
 ### *Timeframe Specification :*
 - Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
