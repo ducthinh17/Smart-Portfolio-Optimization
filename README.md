@@ -174,7 +174,7 @@ in there:
 
 ### Lagrangian function
 <p>
-In case of using Lagrange method to solve:
+In case of using Lagrange method to solve:          
 
 <img src="./img_readme/Lagrangian Function.png" width="250"/> 
 </p>
