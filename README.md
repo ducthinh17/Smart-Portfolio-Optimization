@@ -199,6 +199,8 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 <img src="./img_readme/Vnindex&Portfolio.png" width="700" height="400"/> 
 </p>
 
+*During the period from '2023-01-01' to '2023-12-12,' both the optimal portfolio and VNINDEX exhibit a trend of co-varying fluctuations. The portfolio demonstrates a minor impact from VNINDEX, contributing to its overall growth. It is noticeable that towards the end of the year, the optimal portfolio experiences an increasing trend in weight allocation, leading to higher returns. This observation suggests a potential correlation between the portfolio's performance and the VNINDEX, with the portfolio showing a responsive growth pattern influenced by the market index.*
+
 ## Apply new Weights to check Historical Performance
 <br>
 <p align="center">
