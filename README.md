@@ -192,7 +192,7 @@ Expected return is calculated by multiplying each stock's weights (`optimal_weig
 `expected_return = optimal_weights * mean(returns)`
 
 <p>
-<img src="./img_readme/port_return.png" width="250"/> 
+<img src="./img_readme/port_return.png" width="450"/> 
 </p>
 
 ### Calculating Portfolio Risk (`portfolio_risk`)
@@ -210,7 +210,7 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 `sharpe_ratio = (expected_return - risk_free_rate) / portfolio_risk`
 
 <p>
-<img src="./img_readme/port_risk.png" width="250"/> 
+<img src="./img_readme/port_risk.png" width="450"/> 
 </p>
 
 ### Annualization
