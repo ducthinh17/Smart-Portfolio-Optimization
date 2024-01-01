@@ -37,22 +37,19 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 
 ## *The goal of our project🐃:*
-- The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revoWe retrieve data directly from the VN30 platform. If the platform presents average data, we extract and utilize it as supporting evidence. This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
-  
-### *Timeframe Specification :*
-- Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
+- The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revolutionize how investors navigate the volatile financial landscape. This approach promises real-time adaptability and the ability to predict market moves, presenting a dynamic alternative to traditional risk-and-return models. 
 
 ## Data preprocessing 🐻:
-
+### *Data Collection*: 
+- We retrieve data directly from the VN30 platform. If the platform presents average data, we extract and utilize it as supporting evidence. This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
 ###  *Handling Missing Values :*
 - Implement methods to address and fill missing values in the dataset, ensuring completeness and avoiding data gaps that could impact analysis.
-
 ### *Outlier Detection and Removal :* 
 - Apply statistical techniques, such as z-score analysis, to identify and remove outliers from the dataset, enhancing the robustness of subsequent analysis.
-
 ### *Organizing the Dataset :* 
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
-
+### *Timeframe Specification :*
+- Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
 ## Data analysis 🔎:
 ### *Heatmap for Stock Analysis 📉:* 
 <br>
