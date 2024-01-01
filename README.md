@@ -61,7 +61,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 </p> 
 
 #### Using Heatmap for Stock Analysis:
-- Heatmaps are a valuable tool in stock analysis, providing a visual representation of data to quickly identify patterns and correlations between different stocks. The heatmap in the provided image uses a color-coded system to indicate the strength of the relationship between various stock shares, with darker colors typically representing stronger relationships or higher values.
+- Heatmaps are a valuable tool in stock analysis, providing a visual representation of data to quickly identify patterns and correlations between different stocks. The heatmap uses a color-coded system to indicate the strength of the relationship between various stock shares, with darker colors typically representing stronger relationships or higher values.
 #### Analysis of Stock Shares:
 - The heatmap shows four different stocks, labeled VIB, PLX, CRE, and SSI. Each stock is compared with itself and the others, resulting in a matrix where the diagonal represents a perfect correlation of 1, as a stock will always have a perfect correlation with itself. Here's a detail analysis based on the heatmap:
   
