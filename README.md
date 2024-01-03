@@ -29,17 +29,17 @@
 
 <br>
 
-# Introduction🔎: 
-## *Overview 🐻:*
+# 1.Introduction🔎: 
+## *1.1 Overview 🐻:*
 Welcome to the high-octane world of finance, where Smart Portfolio Optimization isn't just a strategy; it's the superhero investors didn't know they needed. Imagine an investment approach fueled by algorithms, driven by data magic, and guided by the genius of artificial intelligence—a dynamic dance in the digital age.
 
 This isn't your typical risk-and-return tango; it's a real-time symphony of adaptability, predicting market moves before they even happen. Join us as we unravel the secrets of Smart Portfolio Optimization—a financial innovation that's not just evolving but revolutionizing how we navigate the unpredictable waves of investments. Fasten your seatbelts; it's about to get exciting!
 
 
-## *The goal of our project🐃:*
+## *1.2 The goal of our project🐃:*
 - The goal of our project is to champion Smart Portfolio Optimization as a cutting-edge investment strategy. By harnessing algorithms, data analysis, and artificial intelligence, we aim to revolutionize how investors navigate the volatile financial landscape. This approach promises real-time adaptability and the ability to predict market moves, presenting a dynamic alternative to traditional risk-and-return models. 
 
-## Data preprocessing 🐻:
+## *1.3 Data preprocessing 🐻:*
 ### *Data Collection*: 
 - We retrieve data directly from the VN30 platform. If the platform presents average data, we extract and utilize it as supporting evidence. This rigorous selection process establishes the foundation for well-informed decision-making by ensuring the reliability and comprehensiveness of our data sources.
 ###  *Handling Missing Values :*
@@ -50,8 +50,8 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 - Structure the data in an organized format, facilitating easy access and utilization during the optimization phase.
 ### *Timeframe Specification :*
 - Establish specific timeframes for data collection based on the strategic requirements of the Portfolio Optimization project.
-## Data analysis 🔎:
-### *Heatmap for Stock Analysis 📉:* 
+## 2 Data analysis 🔎:
+### 2.1 *Heatmap for Stock Analysis 📉:* 
 <br>
 <p align="center">
 <img src="./img_readme/heatmap.png" width="700"/> 
@@ -87,7 +87,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 - It's important to note that correlation does not imply causation, and these figures should be one of many factors considered when making investment decisions. Other fundamental and technical analysis should also be conducted to understand the full picture of each stock's potential.
 
 
-### *Pair Plot for Stock Analysis 📊:* 
+### *2.2 Pair Plot for Stock Analysis 📊:* 
 <br>
 <p align="center">
 <img src="./img_readme/pair plots.png" width="700"/> 
@@ -108,7 +108,7 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 
 - Based on the pair plot alone, it is not possible to conclusively determine which stock is the best investment without additional context such as the time frame of the data, the specific financial metrics being analyzed, and the investment goals of the individual. However, investors might look for stocks with stable distributions (less skewness) and positive correlations with other stocks if they are seeking diversified portfolios that can potentially reduce risk.
 
-### *Comparative Analysis of Closing Prices for VIB, PLX, and CRE Stocks 📊:* 
+### *2.3 Comparative Analysis of Closing Prices for VIB, PLX, and CRE Stocks 📊:* 
 <br>
 <p align="center">
 <img src="./img_readme/close prices.jpg" width="700"/> 
@@ -131,11 +131,11 @@ This isn't your typical risk-and-return tango; it's a real-time symphony of adap
 #### Conclusion:
 - The chart effectively encapsulates the performance trends of the three stocks over the observed period. VIB's performance shows higher volatility and a notable decrease in value, suggesting a period of instability or market corrections. In contrast, PLX's steady growth could be indicative of consistent performance and potentially stable market conditions. CRE's fluctuating nature, while showing an upward trend, may signal a more complex market behavior that warrants further analysis to understand underlying factors.
 
-# Stochastic Gradient Descent 🥇
+# 3 Stochastic Gradient Descent 🥇
 
 *SGD stands for "Stochastic Gradient Descent," an optimization algorithm commonly used in machine learning and machine learning to find the optimal value of a loss function. SGD is an important part of many machine learning and neural network algorithms, especially when you train deep models.*
 
-## ***Portfolio Optimization Using Expected Gradient Descent***
+## ***3.1 Portfolio Optimization Using Expected Gradient Descent***
 <br>
 <p align="center">
 <img src="./img_readme/SGD_Perfomance.png" width="700" height="400"/> 
@@ -215,7 +215,7 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 - Expected return and Sharpe Ratio are annualized (converted to an annual value) by multiplying by 252, the average number of trading days in a year.
 - Risk is annualized by multiplying by the square root of 252.
 
-## ***Cumulative return of the portfolio relative to the market***
+## ***3.2 Cumulative return of the portfolio relative to the market***
 <br>
 <p align="center">
 <img src="./img_readme/Vnindex&Portfolio.png" width="700" height="400"/> 
@@ -228,7 +228,7 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 <img src="./img_readme/Monte Carlo.png" width="700"/> 
 </p>
 
-## Principal Component Analysis (PCA)
+## 3.3 Principal Component Analysis (PCA)
 
 <br>
 <p align="center">
@@ -249,13 +249,13 @@ Sharpe Ratio measures a portfolio's performance relative to the risk-free rate (
 
 - **Consider Adjusting Your Portfolio:*** You can consider adjusting the weights of stocks in your portfolio based on information from PCA to minimize risk and optimize returns.
 
-## Apply new Weights to check Historical Performance
+## 3.4 Apply new Weights to check Historical Performance
 <br>
 <p align="center">
 <img src="./img_readme/check hist.png" width="700" height="400"/> 
 </p>
 
-# Members 👨🏻‍💻👩🏻‍💻👨🏻‍💻:
+# 5 Members 👨🏻‍💻👩🏻‍💻👨🏻‍💻:
 
 | Index |         Name          |     ID      |                  Email                  |                       Github                                |                              Contribution                              |
 | :---: | :-------------------: | :---------: |:---------------------------------------:| :---------------------------------------------------------: | :----------------------------------------------------------------: |
